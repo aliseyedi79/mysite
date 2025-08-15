@@ -1,0 +1,161 @@
+{
+  "metadata": {
+    "title": "Ali Seyedi Athletics",
+    "description": "Ali Seyedi Professional Athletics Athlete"
+  },
+  "Footer": {
+    "title": "Quick access",
+    "home": "home",
+    "news": "news",
+    "gallery": "Gallery",
+    "about": "Introduction",
+    "instagram": "Instagram",
+    "fanPage1": "Fan Pages",
+    "fanPage2": "Fan pages",
+    "gmail": "email",
+    "link1": "External Link 1",
+    "link2": "External Link 2",
+    "link3": "External Link 3"
+  },
+  "Menu": {
+    "title": "Ali SEYYEDI Website",
+    "about": "About me",
+    "Blog": "My News",
+    "Gallery": "Gallery"
+  },
+  "Blog": {
+    "title": "this is blog"
+  },
+  "PartOne": {
+    "name": "ALI",
+    "family": "SEYYEDI",
+    "major1": "TRACK ",
+    "major2": " AND ",
+    "major3": " FIELD"
+  },
+  "PartTwo": {
+    "title": "Introduction",
+    "record": "A boy who loves to set records. ",
+    "me": "Ali Seyyedi, born in 2000 in Bojnord, North Khorasan Province, began his professional athletic career in 2014. With dedication and perseverance, he won his first gold medals in track and field at the youth level in 2016 and 2017.\nIn 2024, with an outstanding performance, he secured second place nationally in the triple jump, cementing his position among the country’s top athletes.\nIn addition to the triple jump, Ali Seyyedi is also recognized as one of Iran’s strongest competitors in the long jump, holding remarkable records at the national level.",
+    "cv": "My Title"
+  },
+  "PartThree": {
+    "title": "Personal Information",
+    "age": "Age",
+    "height": "Height",
+    "nationality": "Nationality",
+    "triple_jump": "Triple Jump",
+    "long_jump": "Long Jump",
+    "age_value": "24",
+    "height_value": "191",
+    "nationality_value": "Iranian",
+    "triple_jump_value": "15.88",
+    "long_jump_value": "7.81"
+  },
+  "PartFour": {
+    "1": "National Competitions",
+    "2": "Khazar Shahr - Iran",
+    "3": "Bojnourd Track",
+    "4": "Baba Mousa Mountain",
+    "5": "International Cup",
+    "6": "Long Jump",
+    "title": " Picture Gallery",
+    "wMore": " watch picture"
+  },
+  "Gallery": {
+    "title": "  Ali Seyyedi Gallery"
+  },
+
+  "AchievementsModal": {
+    "title": "Rank Title",
+    "rank": "Rank",
+    "1": "Provincial Athletics Competitions",
+    "rank1": "Second Place",
+    "2": "National Long Jump Competition",
+    "rank2": "First Place",
+    "3": "International Youth Competitions",
+    "rank3": "Third Place",
+    "x": "Close"
+  },
+
+  "news": {
+    "title": "Seyyedi News:",
+    "br1": "News/ July 24, 2020",
+    "br2": "just 6 centimeters... ",
+    "see": " Read More",
+    "br3": "Ali Seyyedi set a new record, he says: 'I was just 6 centimeters short of breaking the Iranian record!'",
+    "date1": "News/ July 24, 2024",
+    "date2": "News/ August 24, 2023",
+    "date3": "News/ April 22, 2024",
+    "content1": "National Senior Team Selection",
+    "content2": "Training with Zobahan Team",
+    "content3": "2 ali in 1 box! Jahanbakhsh and Seyyedi",
+    "lastnews": "lastnews"
+  },
+  "About": {
+    "title": "Introduction",
+    "content1": "On a cold winter’s day in 2001, in the heart of Bojnourd city, a boy was born whose name would one day echo from the national championship podiums — Ali Seyyedi. From a young age, Ali was full of energy and drive. He was never still; always running, always jumping. The backyard, dusty alleys, and small sports fields of his hometown were his first humble training grounds.",
+    "content2": "In 2014, his journey took a serious turn when he decided to dedicate himself to becoming a professional athlete. Training days were far from easy. Early mornings before school, in the cold and silence, he would train; in the afternoons, he stayed on the track until the last light of day faded. Many doubted that a teenager from a small town could ever shine on the national stage… but Ali believed.",
+    "content3": "Just two years later, in 2016 and 2017, his dedication paid off. He claimed his first gold medals in the youth athletics category. Standing on the top podium was not just about the medal — it was proof, to himself and to all who doubted him. But this was far from the end. With an unquenchable thirst for progress, Ali fought for years, faced defeats, rose again, and each time came back stronger. Then, in 2024, at the national triple jump championships, he delivered a stunning performance that earned him second place in the country. That silver podium was more than a title — it was the reward for years of hard work, sweat, and perseverance. Today, Ali Seyyedi is not only one of Iran’s leading triple jumpers but also a formidable name in long jump. His national records show that his journey is far from over, and even greater leaps lie ahead. His story inspires anyone who believes that “no dream is too far if you fight for it.”"
+  },
+  "news1": {
+    "title": "Only 6 cm Away from Breaking Iran’s Triple Jump Record!",
+    "excerpt": "The moment everyone was waiting for",
+    "author": "Site Admin",
+    "publishedAt": "August 2, 2025",
+    "readTime": "5 min read",
+    "content-p": "During his recent personal training session at the private athletics field, Ali Seyyedi - Iran's young and motivated triple jump star - came incredibly close to breaking the national record in stunning fashion. In a private session supervised by his personal coach, Seyyedi achieved an astonishing jump of 16.27 meters, just 6 centimeters short of Iran's national record of 16.33 meters. This marks the best performance by an Iranian athlete in recent years under any circumstances.",
+    "content-h2": "The moment that proved he's ready to break boundaries",
+    "content-p2": "On that memorable day, with only a small team including his coach, physiotherapist and a few close associates present, Seyyedi completed his meticulous warm-up and approached the jumping pit. Complete silence fell over the field. First jump: 16.05m. Second jump: 16.19m. Then on his third attempt, magic happened - a jump so fluid and powerful it left everyone in awe. When the measuring tape showed 16.27 meters, Ali looked determinedly at the camera and said: 'This was just training, but I know I'm getting closer. I will conquer those last 6 centimeters. That's a promise.' His recent training sessions suggest that breaking the national record is only a matter of time.",
+    "cmauthor": " mojtaba mohammadian",
+    "cmcontent": "Bro 6cm is no joke! 😆",
+    "cmpublishedAt": "August 3, 2025",
+    "cmauthor2": "Mr morteza  ",
+    "cmcontent2": "That was nearly a disaster! 🤣",
+    "cmpublishedAt2": "August 4, 2025"
+  },
+  "blogpost": {
+    "1": "HOME",
+    "2": "NEWS"
+  },
+  "news2": {
+    "title": "National Senior Selection!",
+    "excerpt": "A tense and decisive moment for him",
+    "author": "Site Admin",
+    "publishedAt": "May 1, 2025",
+    "readTime": "3 min read",
+    "content-p": "This year’s National Senior Selection was a stage filled with passion, focus, and intense competition — a day when every leap and every step reflected years of quiet, unseen training. Among the notable names, Ali Seyyedi stood at the starting line with deep composure and determined eyes; an athlete who has risen from limited resources to give new meaning to perseverance and consistency.",
+    "content-h2": "A competition beyond just a race",
+    "content-p2": "The stadium air was charged with energy. Every time Ali’s name was called, a brief silence would fall before the heartbeat of the crowd synchronized with his sprint. His focus, rhythm, and explosive power in three consecutive jumps painted a picture of years forged on simple tracks with minimal facilities. The rivalry was close, the psychological pressure immense, and every move under scrutiny — yet Ali, with smart control over both body and mind, transformed stress into pure concentration instead of battling it. This event was not merely a selection; it was a test of years of hard work and faith in the journey."
+  },
+  "news3": {
+    "title": "Training with Zob Ahan Team",
+    "excerpt": "A unique experience alongside the Premier League giants",
+    "author": "Site Admin",
+    "publishedAt": "September 10, 2025",
+    "readTime": "4 min read",
+    "content-p": "Training with the legendary Zob Ahan team in Isfahan is a rare and challenging experience for any athlete; but for Ali Seyyedi, these sessions were far more than a daily workout routine. Stepping onto Zob Ahan’s training ground, hearing the sound of spikes hitting the track and the synchronized shouts of the coaches, was a reminder that this is a place where only the best survive.",
+    "content-h2": "Premier League: A true test of abilities",
+    "content-p2": "Zob Ahan, a team whose name has been tied to glory and medals in Iran’s Premier League athletics for years, was now hosting one of the most motivated triple jump talents in the country. Training alongside national champions and athletes with experience in the most prestigious domestic and international events, Ali not only refined his technical skills but also strengthened his competitive spirit and mental strategies. Wearing Zob Ahan’s green jersey in the Premier League was more than just a sporting experience; it was a test of standing against the greats, feeling the true pressure of high-level competitions, and realizing that success is the product of countless hours of hard work and unwavering belief in oneself."
+  },
+  "news4": {
+    "title": "Ali Seyyedi and Alireza Jahanbakhsh: Two Alis in One Frame",
+    "excerpt": "A friendly meeting at Damash Rasht's training ground",
+    "author": "Site Admin",
+    "publishedAt": "August 16, 2025",
+    "readTime": "7 min read",
+    "content-p": "This summer was different for Ali Seyyedi, Iran's triple jump star. He traveled with his family to the lush green province of Gilan and the beautiful city of Rasht, where gentle rain, tree-lined streets, and the aroma of freshly brewed tea gave his days a unique charm. During this trip, Ali decided not to pause his training and spent some time practicing with the popular and historic Damash Gilan team.",
+    "content-h2": "A Memorable Moment with the National Team Captain",
+    "content-p2": "What made that day unforgettable for Ali was the arrival of Alireza Jahanbakhsh, the captain of Iran’s national football team, at Damash's training session. With his signature smile and positive energy, Jahanbakhsh greeted everyone warmly and even took a few minutes to watch Ali’s triple jump practice. After training, the two Alis stood face to face, sharing a friendly conversation about football, athletics, motivation, the path to success, and the challenges of sports in Iran. For Ali, meeting such a champion—who remains humble despite great achievements—was truly inspiring. That day, on Damash's training ground, two champions from different worlds came together in one unforgettable frame.",
+    "cmauthor": " shahin mehrdelan",
+    "cmcontent": "so good two person so beautiful",
+    "cmpublishedAt": "November 10, 2023",
+    "cmauthor2": "siavash",
+    "cmcontent2": "But you are more handsome than the world.😆",
+    "cmpublishedAt2": "JUne 29, 2024"
+  },
+  "NotFound": {
+    "message": "Page not found",
+    "backHome": "Return to home"
+  }
+}
