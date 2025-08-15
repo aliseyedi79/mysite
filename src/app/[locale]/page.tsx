@@ -1,9 +1,8 @@
 import Sections from '@/sections';
-import { Grid } from '@mui/material';
-export default async function Home() {
+export default function Home() {
   return (
-    <Grid>
+    <>
       <Sections />
-    </Grid>
+    </>
   );
 }

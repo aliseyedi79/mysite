@@ -1,8 +1,8 @@
+'use client';
 import { Box, Button, Grid, Typography } from '@mui/material';
 import { useTranslations } from 'next-intl';
 import { Link } from '@/i18n/navigation';
 import Image from 'next/image';
-import { auto } from '@popperjs/core';
 
 export default function Part5() {
   const t = useTranslations('news');
