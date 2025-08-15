@@ -3,8 +3,8 @@ import React from 'react';
 import { NextIntlClientProvider } from 'next-intl';
 import { Locale, routing } from '@/i18n/routing';
 import { notFound } from 'next/navigation';
-import Header from '@/app/header/header';
-import Footer from '@/app/footer/page';
+import Header from '@/component/header/header';
+import Footer from '@/component/footer/page';
 import ThemeProvider from '@/theme/theme-provider';
 
 import { getTranslations } from 'next-intl/server';

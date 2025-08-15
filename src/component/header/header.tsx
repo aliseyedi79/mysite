@@ -1,7 +1,7 @@
 'use client';
 import { Grid, NoSsr } from '@mui/material';
 
-import Appbar from '@/app/header/appbar';
+import Appbar from '@/component/header/appbar';
 
 export default function Header() {
   return (
