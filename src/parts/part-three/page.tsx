@@ -103,6 +103,7 @@ export default function PartThree() {
             display={'flex'}
             alignItems={'center'}
             justifyContent="center"
+            position={'relative'}
             sx={{
               order: { xs: -1, sm: 2 },
             }}
@@ -110,9 +111,9 @@ export default function PartThree() {
             <Image
               src="/Gallery/me1.png"
               alt={'aliseyyedi'}
-              height={300}
-              width={100}
+              style={{ objectFit: 'contain' }}
               priority
+              fill
             />
           </Grid>
         </Grid>
