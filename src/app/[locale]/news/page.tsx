@@ -8,7 +8,7 @@ export default function News() {
   const t = useTranslations('news');
   const posts = [
     {
-      image: '/Gallery/11.jpg',
+      image: '/gallery/11.jpg',
       date: t('date3'),
       content: t('br2'),
       click: t('see'),
@@ -16,7 +16,7 @@ export default function News() {
       href: '/news/just-6-centimeters',
     },
     {
-      image: '/Gallery/12.jpg',
+      image: '/gallery/12.jpg',
       date: t('date1'),
       content: t('content1'),
       click: t('see'),
@@ -24,7 +24,7 @@ export default function News() {
       href: '/news/national-Senior-Team',
     },
     {
-      image: '/Gallery/16.jpg',
+      image: '/gallery/16.jpg',
       date: t('date2'),
       content: t('content2'),
       click: t('see'),
@@ -32,7 +32,7 @@ export default function News() {
       href: '/news/ali-seyyedei-zobahan',
     },
     {
-      image: '/Gallery/17.jpg',
+      image: '/gallery/17.jpg',
       date: t('date3'),
       content: t('content3'),
       click: t('see'),

@@ -109,7 +109,7 @@ export default function PartThree() {
             }}
           >
             <Image
-              src="/Gallery/me1.png"
+              src="/gallery/me1.png"
               alt={'aliseyyedi'}
               style={{ objectFit: 'contain' }}
               priority
