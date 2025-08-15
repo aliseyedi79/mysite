@@ -112,6 +112,7 @@ export default function PartThree() {
               alt={'aliseyyedi'}
               height={300}
               width={100}
+              priority
             />
           </Grid>
         </Grid>
