@@ -8,7 +8,7 @@ export default function Part5() {
   const t = useTranslations('news');
   const items = [
     {
-      image: '/Gallery/12.jpg',
+      image: '/Gallery/12.png',
       date: t('date1'),
       content: t('content1'),
       click: t('see'),
@@ -38,17 +38,32 @@ export default function Part5() {
             size={{ xs: 12, sm: 6 }}
             display={'flex'}
             alignItems={'end'}
-            height={{ xs: 270, md: 400 }}
             sx={{
-              backgroundImage: `
-      linear-gradient(to top, rgba(0,0,0,0.99) 0%, rgba(0,0,0,0.6) 50%, transparent 100%),
-      url('/Gallery/11.jpg')
-    `,
-              backgroundSize: 'cover',
-              borderRadius: '5px',
+              position: 'relative',
             }}
           >
-            <Box px={4}>
+            <Image
+              src="/Gallery/11.jpg"
+              alt="ali-Seyyedi"
+              fill
+              style={{
+                objectFit: 'cover',
+                zIndex: -1,
+                objectPosition: 'center top',
+              }}
+            />
+            <Box
+              sx={{
+                position: 'absolute',
+                bottom: 0,
+                left: 0,
+                right: 0,
+                height: '100%',
+                background:
+                  'linear-gradient(to top, rgba(0,0,0,0.9) 30%, rgba(0,0,0,0.6) 50% , transparent 100%)',
+              }}
+            />
+            <Box px={4} zIndex={11}>
               <Typography variant={'h6'} sx={{ color: 'whitesmoke' }}>
                 {t('br1')}
               </Typography>
@@ -72,22 +87,25 @@ export default function Part5() {
               </Button>
             </Box>
           </Grid>
-          <Grid size={{ xs: 12, sm: 6 }} container spacing={2}>
+          <Grid size={{ xs: 12, sm: 6 }}>
             {items.map((item, index) => (
-              <Grid
-                key={index}
-                size={12}
-                height={{ xs: 90, sm: auto }}
-                container
-              >
-                <Grid
-                  size={4}
-                  sx={{
-                    backgroundImage: `url(${item.image})`,
-                    backgroundSize: 'cover',
-                    borderRadius: '5px',
-                  }}
-                />
+              <Grid key={index} container spacing={1}>
+                <Grid size={4} my={0.25}>
+                  <Image
+                    src={item.image}
+                    alt="ali-Seyyedi"
+                    priority
+                    height={10}
+                    width={100}
+                    style={{
+                      objectPosition: 'center top',
+                      objectFit: 'cover',
+                      width: '100%',
+                      height: '100%',
+                      borderRadius: 4,
+                    }}
+                  />
+                </Grid>
                 <Grid
                   size={8}
                   mt={1}
@@ -110,6 +128,7 @@ export default function Part5() {
                   >
                     {item.content}
                   </Box>
+                  <hr />
                   <Typography
                     variant={'h6'}
                     sx={{
